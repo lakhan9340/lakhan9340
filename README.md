@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi👋, i am Lakhan Jadam
 
 <!--
 **lakhan9340/lakhan9340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
