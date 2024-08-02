@@ -3,11 +3,11 @@
 Welcome to my GitHub profile! I am Lakhan Jadam, a passionate Data Analyst with expertise in various tools and technologies used for data analysis and visualization. Below, you'll find details about my skills, projects, and how to connect with me.
 
 ---
-<br clear="both">
-<img align="right" src="https://user-images.githubusercontent.com/94790150/215993032-76b23ca0-b761-4951-81ec-503e6f078927.gif" alt="data science" width="500" />
+
 
 ## 🛠️ Skills
-
+<br clear="both">
+<img align="right" src="https://user-images.githubusercontent.com/94790150/215993032-76b23ca0-b761-4951-81ec-503e6f078927.gif" alt="data science" width="700" />
 - **Programming Languages:**
   - Python
   - SQL (MySQL)
