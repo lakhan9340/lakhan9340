@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I am Lakhan Jadam, a passionate Data Analyst with 
 
 <div align="right">
 
-<img src="https://user-images.githubusercontent.com/94790150/215993032-76b23ca0-b761-4951-81ec-503e6f078927.gif" alt="data science" />
+<img src="https://user-images.githubusercontent.com/94790150/215993032-76b23ca0-b761-4951-81ec-503e6f078927.gif" alt="data science" width="200" />
 </div>
 
 ###
