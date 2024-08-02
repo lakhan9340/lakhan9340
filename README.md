@@ -40,8 +40,6 @@ Here are some of the projects I've worked on:
 - **Skills Used:** MySQL
 - **Details:** [View Project]([link-to-project](https://github.com/lakhan9340/Car24-Data-Analysis-By-Using-SQL))
 
-*Note: Replace `link-to-project` and `link-to-image` with actual URLs.*
-
 ---
 
 ## 📞 Contact Me
