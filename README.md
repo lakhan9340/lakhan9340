@@ -54,12 +54,7 @@ Feel free to connect with me!
 
 ---
 
-## 🎨 Styling
-
-For a more stylish `README.md`, you can incorporate:
-
-- **Badges:** ![Python](https://img.shields.io/badge/Python-3.8-blue) ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
-- **GIFs and Videos:** Include animated GIFs or short videos demonstrating your projects.
+![Python](https://img.shields.io/badge/Python-3.8-blue) ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
 
 ---
 
