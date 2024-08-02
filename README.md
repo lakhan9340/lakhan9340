@@ -48,7 +48,7 @@ Here are some of the projects I've worked on:
 
 Feel free to connect with me!
 
-- **Email:** [your-lakhanjadam83@gmail.com](mailto:your-lakhanjadam83@gmail.com)
+- **Email:** [lakhanjadam83@gmail.com](mailto:your-lakhanjadam83@gmail.com)
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/lakhan-jadam-91a775131/)
 - **GitHub:** [github.com/yourusername](https://github.com/lakhan9340)
 
