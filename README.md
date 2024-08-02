@@ -92,14 +92,6 @@ Here are some of the projects I've worked on:
 </div>
 
 
-## 📞 Contact Me
-
-Feel free to connect with me!
-
-- **Email:** [lakhanjadam83@gmail.com](mailto:your-lakhanjadam83@gmail.com)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/lakhan-jadam-91a775131/)
-- **GitHub:** [github.com/yourusername](https://github.com/lakhan9340)
-
 ---
 
 ![Python](https://img.shields.io/badge/Python-3.8-blue) ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
