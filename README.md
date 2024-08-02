@@ -13,7 +13,14 @@ Welcome to my GitHub profile! I am Lakhan Jadam, a passionate Data Analyst with 
 - **Data Analysis & Visualization Tools:**
   - Power BI
   - Excel
+###
 
+<div align="right">
+
+<img src="https://user-images.githubusercontent.com/94790150/215993032-76b23ca0-b761-4951-81ec-503e6f078927.gif" alt="data science" />
+</div>
+
+###
 - **Libraries & Frameworks:**
   - NumPy
   - Pandas
@@ -76,13 +83,7 @@ Here are some of the projects I've worked on:
   <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://user-images.githubusercontent.com/94790150/215993032-76b23ca0-b761-4951-81ec-503e6f078927.gif" alt="data science" />
-
-###
 ## 📞 Contact Me
 
 Feel free to connect with me!
