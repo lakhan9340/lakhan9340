@@ -30,17 +30,15 @@ Here are some of the projects I've worked on:
 - **Skills Used:** Python, Pandas, MySQL,PowerBi
 - **Details:** [View Project](https://github.com/lakhan9340/Customer-Purchase-Behavior-Analysis-and-Reporting-)
 
-### 2. [Project Title 2](link-to-project)
-![Project 2](link-to-image)
-- **Description:** Brief overview of the project.
-- **Skills Used:** Power BI, Excel
-- **Details:** [View Project](link-to-project)
+### 2. IMDB Webscraping 
+- **Description:** Used the requests library to send HTTP requests and retrieve HTML content from URLs. Parsed HTML with BeautifulSoup to navigate and extract desired elements. Extracted data using BeautifulSoup methods like find and find_all. Implemented data validation checks to ensure accuracy and completeness.
+- **Skills Used:** BeautifulSoup,selenium
+- **Details:** [View Project](https://github.com/lakhan9340/IMDB-Web-scarping-)
 
-### 3. [Project Title 3](link-to-project)
-![Project 3](link-to-image)
-- **Description:** Brief overview of the project.
-- **Skills Used:** BeautifulSoup, Python
-- **Details:** [View Project](link-to-project)
+### 3.Car24 Data Analysis
+- **Description:** Analyzed the CARS24 dataset using SQL to generate meaningful business insights. Optimized SQL queries for efficiency and performance. Utilized functions, subqueries, and aggregations to complete analysis tasks. Added comments to SQL queries to explain the approach and logic used.
+- **Skills Used:** MySQL
+- **Details:** [View Project]([link-to-project](https://github.com/lakhan9340/Car24-Data-Analysis-By-Using-SQL))
 
 *Note: Replace `link-to-project` and `link-to-image` with actual URLs.*
 
@@ -50,9 +48,9 @@ Here are some of the projects I've worked on:
 
 Feel free to connect with me!
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **Email:** [your-lakhanjadam83@gmail.com](mailto:your-lakhanjadam83@gmail.com)
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/lakhan-jadam-91a775131/)
+- **GitHub:** [github.com/yourusername](https://github.com/lakhan9340)
 
 ---
 
