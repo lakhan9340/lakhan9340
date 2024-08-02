@@ -1,23 +1,71 @@
-<h1 align="center">Hi 👋, I'm Lakhan Jadam</h1>
-<h3 align="center">A passionate data analyst from India</h3>
+# Lakhan Jadam - Data Analyst
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakhan9340&label=Profile%20views&color=0e75b6&style=flat" alt="lakhan9340" /> </p>
+Welcome to my GitHub profile! I am Lakhan Jadam, a passionate Data Analyst with expertise in various tools and technologies used for data analysis and visualization. Below, you'll find details about my skills, projects, and how to connect with me.
 
-<p align="left"> <a href="https://twitter.com/medicineexpert0" target="blank"><img src="https://img.shields.io/twitter/follow/medicineexpert0?logo=twitter&style=for-the-badge" alt="medicineexpert0" /></a> </p>
+---
 
-- 🌱 I’m currently learning **Webscraping**
+## 🛠️ Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/medicineexpert0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="medicineexpert0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lakhan-jadam-91a775131/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakhan-jadam-91a775131/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/lakhanjadam83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lakhanjadam83" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@lakhanjadam83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@lakhanjadam83" height="30" width="40" /></a>
-</p>
+- **Programming Languages:**
+  - Python
+  - SQL (MySQL)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+- **Data Analysis & Visualization Tools:**
+  - Power BI
+  - Excel
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakhan9340&show_icons=true&locale=en" alt="lakhan9340" /></p>
+- **Libraries & Frameworks:**
+  - NumPy
+  - Pandas
+  - BeautifulSoup
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakhan9340&" alt="lakhan9340" /></p>
+---
+
+## 📁 Projects
+
+Here are some of the projects I've worked on:
+
+### 1. [Project Title 1](link-to-project)
+![Project 1](link-to-image)
+- **Description:** Brief overview of the project.
+- **Skills Used:** Python, Pandas, MySQL
+- **Details:** [View Project](link-to-project)
+
+### 2. [Project Title 2](link-to-project)
+![Project 2](link-to-image)
+- **Description:** Brief overview of the project.
+- **Skills Used:** Power BI, Excel
+- **Details:** [View Project](link-to-project)
+
+### 3. [Project Title 3](link-to-project)
+![Project 3](link-to-image)
+- **Description:** Brief overview of the project.
+- **Skills Used:** BeautifulSoup, Python
+- **Details:** [View Project](link-to-project)
+
+*Note: Replace `link-to-project` and `link-to-image` with actual URLs.*
+
+---
+
+## 📞 Contact Me
+
+Feel free to connect with me!
+
+- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+
+---
+
+## 🎨 Styling
+
+For a more stylish `README.md`, you can incorporate:
+
+- **Badges:** ![Python](https://img.shields.io/badge/Python-3.8-blue) ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
+- **GIFs and Videos:** Include animated GIFs or short videos demonstrating your projects.
+
+---
+
+Thanks for visiting my profile! Feel free to reach out if you have any questions or just want to discuss data analytics.
+
+
