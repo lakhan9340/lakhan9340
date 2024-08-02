@@ -25,11 +25,10 @@ Welcome to my GitHub profile! I am Lakhan Jadam, a passionate Data Analyst with 
 
 Here are some of the projects I've worked on:
 
-### 1. [Project Title 1](link-to-project)
-![Project 1](link-to-image)
-- **Description:** Brief overview of the project.
-- **Skills Used:** Python, Pandas, MySQL
-- **Details:** [View Project](link-to-project)
+### 1. Customer Behavior Analysis
+- **Description:** Created a database and imported purchase data with SQL, transforming and normalizing it. Analyzed data with Python to calculate totals, identify top customers, and analyze trends. Built an interactive PowerBI dashboard to visualize purchase trends, top customers, and product performance.
+- **Skills Used:** Python, Pandas, MySQL,PowerBi
+- **Details:** [View Project](https://github.com/lakhan9340/Customer-Purchase-Behavior-Analysis-and-Reporting-)
 
 ### 2. [Project Title 2](link-to-project)
 ![Project 2](link-to-image)
