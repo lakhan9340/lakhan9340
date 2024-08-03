@@ -14,7 +14,7 @@
 <br clear="both">
 <img align="right" src="https://user-images.githubusercontent.com/94790150/215993032-76b23ca0-b761-4951-81ec-503e6f078927.gif" alt="data science" width="550" />
 
- - **Programming Languages:**
+- **Programming Languages:**
   - Python
   - SQL (MySQL)
 
