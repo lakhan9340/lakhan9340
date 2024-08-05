@@ -1,3 +1,6 @@
+<br clear="both">
+<img align="center" src="https://github.com/lakhan9340/lakhan9340/blob/main/Lakhan%20Jadam.png" alt="data science" width="1000" />
+
 <h1 align="center">
   Hi👋, I am Lakhan Jadam - Data Analyst
 </h1>
