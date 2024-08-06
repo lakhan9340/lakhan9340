@@ -5,12 +5,27 @@
   Hi👋, I am Lakhan Jadam - Data Analyst
 </h1>
 
-<p align="center">
-  Welcome to my GitHub profile! I am Lakhan Jadam, a passionate Data Analyst with expertise in various tools and technologies used for data analysis and visualization. Below, you'll find details about my skills, projects, and how to connect with me.
-</p>
+<h4 align="center">
+  Welcome to my GitHub profile! I am Lakhan Jadam
+ 
+  <p align="center">
+  
+a passionate Data Analyst with a keen interest in transforming raw data into actionable insights. My journey in the world of data analysis has equipped me with a diverse skill set and hands-on experience with various tools and technologies. This profile showcases my work and projects in the realm of data analysis and visualization.
+    </p>
+ </h4>
+ <h2>
+ About Me
+   </h2>
+<p align="left">
+As a dedicated Data Analyst, I thrive on discovering patterns and trends within data to help businesses make informed decisions. My expertise spans across several key areas:
+
+- **Data Analysis:** Proficient in data cleaning, processing, and statistical analysis using Python, R, and SQL.
+- **Data Visualization:** Skilled in creating compelling visualizations and dashboards with tools like Tableau, Power BI, and Matplotlib.
+- **Statistical Techniques:** Experienced with various statistical techniques and models to extract meaningful insights and predict future trends.
+- **Data Management:** Competent in database management, including designing and querying relational databases with SQL.
+ </p>
 <br clear="both">
 <img align="right" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="data science" width="150" />
-
 
 ---
 ## 🛠️ Skills
