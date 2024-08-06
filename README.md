@@ -48,7 +48,7 @@ Here are some of the projects I've worked on:
 ### 3.Car24 Data Analysis
 - **Description:** Analyzed the CARS24 dataset using SQL to generate meaningful business insights. Optimized SQL queries for efficiency and performance. Utilized functions, subqueries, and aggregations to complete analysis tasks. Added comments to SQL queries to explain the approach and logic used.
 - **Skills Used:** MySQL
-- **Details:** [View Project]([link-to-project](https://github.com/lakhan9340/Car24-Data-Analysis-By-Using-SQL))
+- **Details:** [View Project](https://github.com/lakhan9340/Car24-Data-Analysis-By-Using-SQL)
 
 ---
 
