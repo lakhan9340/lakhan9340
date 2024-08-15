@@ -7,6 +7,7 @@
 
 <h4 align="center">
   Welcome to my GitHub profile! I am Lakhan Jadam
+<img align="right" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="data science" width="200"  height="150" />
  
   <p align="center">
   
@@ -24,12 +25,11 @@ As a dedicated Data Analyst, I thrive on discovering patterns and trends within 
 - **Statistical Techniques:** Experienced with various statistical techniques and models to extract meaningful insights and predict future trends.
 - **Data Management:** Competent in database management, including designing and querying relational databases with SQL.
  </p>
-<br clear="both">
-<img align="right" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="data science" width="150" />
+
 
 ---
 ## 🛠️ Skills
-  <img align="right" src="https://github.com/lakhan9340/lakhan9340/blob/main/download%20(1).gif" alt="data science"  width="250" height="350" /> 
+  <img align="right" src="https://github.com/lakhan9340/lakhan9340/blob/main/download%20(1).gif" alt="data science"  width="300" height="360" /> 
   
 - **Programming Languages:**
   - Python
