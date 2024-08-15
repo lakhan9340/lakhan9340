@@ -50,13 +50,19 @@ Here are some of the projects I've worked on:
 - **Description:** Created a database and imported purchase data with SQL, transforming and normalizing it. Analyzed data with Python to calculate totals, identify top customers, and analyze trends. Built an interactive PowerBI dashboard to visualize purchase trends, top customers, and product performance.
 - **Skills Used:** Python, Pandas, MySQL,PowerBi
 - **Details:** [View Project](https://github.com/lakhan9340/Customer-Purchase-Behavior-Analysis-and-Reporting-)
+- 
+### 2. Customer churn Analysis
+- **Description:** Created a database and imported purchase data with SQL, transforming and normalizing it. Analyzed data with Python to calculate totals, identify top customers, and analyze trends. Built an interactive PowerBI dashboard to visualize purchase trends, top customers, and product performance.
+- **Skills Used:** MS Excel
+- **Details:** [View Project](https://github.com/lakhan9340/Customer-Churn-Analysis-)
+<img align="center" src="https://github.com/lakhan9340/Customer-Churn-Analysis-/blob/main/churn%20analysis.png" alt="data science"  width="1000" height="600" /> 
 
-### 2. IMDB Webscraping 
+### 3. IMDB Webscraping 
 - **Description:** Used the requests library to send HTTP requests and retrieve HTML content from URLs. Parsed HTML with BeautifulSoup to navigate and extract desired elements. Extracted data using BeautifulSoup methods like find and find_all. Implemented data validation checks to ensure accuracy and completeness.
 - **Skills Used:** BeautifulSoup,selenium
 - **Details:** [View Project](https://github.com/lakhan9340/IMDB-Web-scarping-)
 
-### 3.Car24 Data Analysis
+### 4.Car24 Data Analysis
 - **Description:** Analyzed the CARS24 dataset using SQL to generate meaningful business insights. Optimized SQL queries for efficiency and performance. Utilized functions, subqueries, and aggregations to complete analysis tasks. Added comments to SQL queries to explain the approach and logic used.
 - **Skills Used:** MySQL
 - **Details:** [View Project](https://github.com/lakhan9340/Car24-Data-Analysis-By-Using-SQL)
