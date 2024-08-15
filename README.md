@@ -29,9 +29,10 @@ As a dedicated Data Analyst, I thrive on discovering patterns and trends within 
 
 ---
 ## 🛠️ Skills
-<br clear="both">
-<img align="right" src="https://user-images.githubusercontent.com/94790150/215993032-76b23ca0-b761-4951-81ec-503e6f078927.gif" alt="data science" width="550" />
 
+<div align="left">
+<p align="left">
+  
 - **Programming Languages:**
   - Python
   - SQL (MySQL)
@@ -43,6 +44,17 @@ As a dedicated Data Analyst, I thrive on discovering patterns and trends within 
   - NumPy
   - Pandas
   - BeautifulSoup
+  </p>
+</div>
+<div>
+<div align="right">
+<kbd align="right" />
+<img align="right" src="https://github.com/lakhan9340/lakhan9340/blob/main/Untitled%20design.png" alt="data science"  width="250" height="350" /> 
+
+</div>
+</div>
+
+
 
 ---
 
