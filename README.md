@@ -52,11 +52,13 @@ Here are some of the projects I've worked on:
 - **Details:** [View Project](https://github.com/lakhan9340/Customer-Purchase-Behavior-Analysis-and-Reporting-)
 - 
 ### 2. Customer churn Analysis
-- **Description:** Created a database and imported purchase data with SQL, transforming and normalizing it. Analyzed data with Python to calculate totals, identify top customers, and analyze trends. Built an interactive PowerBI dashboard to visualize purchase trends, top customers, and product performance.
+- **Description:** Cleaned the data by removing missing, duplicate, and inconsistent entries. Used Excel formulas like SUM, AVERAGE, and COUNT to calculate key metrics. Added clear titles, axis labels, and legends to make charts easy to understand and observe churn rate of customers.
+Analyzed customer churn rate to identify patterns and trends in customer retention and attrition. This involved creating charts that visually represented churn metrics over time, providing insights into customer behavior and retention strategies.
 - **Skills Used:** MS Excel
 - **Details:** [View Project](https://github.com/lakhan9340/Customer-Churn-Analysis-)
-<img align="center" src="https://github.com/lakhan9340/Customer-Churn-Analysis-/blob/main/churn%20analysis.png" alt="data science"  width="1000" height="600" /> 
-
+<div align="center">
+<img src="https://github.com/lakhan9340/Customer-Churn-Analysis-/blob/main/churn%20analysis.png" alt="data science"  width="500" height="300" /> 
+</div>
 ### 3. IMDB Webscraping 
 - **Description:** Used the requests library to send HTTP requests and retrieve HTML content from URLs. Parsed HTML with BeautifulSoup to navigate and extract desired elements. Extracted data using BeautifulSoup methods like find and find_all. Implemented data validation checks to ensure accuracy and completeness.
 - **Skills Used:** BeautifulSoup,selenium
