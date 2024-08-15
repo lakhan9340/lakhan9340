@@ -1,5 +1,5 @@
 <br clear="both">
-<img align="center" src="https://github.com/lakhan9340/lakhan9340/blob/main/lakhan%20jadam%20(1).png alt="data science" width="1000" />
+<img align="center" src="https://github.com/lakhan9340/lakhan9340/blob/main/lakhan%20jadam%20(1).png" alt="data science" width="1200" />
 
 <h1 align="center">
   Hi👋, I am Lakhan Jadam - Data Analyst
