@@ -7,9 +7,7 @@
 
 <h4 align="center">
   Welcome to my GitHub profile! I am Lakhan Jadam
-<img align="right" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="data science" width="200"  height="150" />
- 
-  <p align="center">
+<p align="center">
   
 a passionate Data Analyst with a keen interest in transforming raw data into actionable insights. My journey in the world of data analysis has equipped me with a diverse skill set and hands-on experience with various tools and technologies. This profile showcases my work and projects in the realm of data analysis and visualization.
     </p>
