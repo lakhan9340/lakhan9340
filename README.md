@@ -57,7 +57,7 @@ Analyzed customer churn rate to identify patterns and trends in customer retenti
 - **Skills Used:** MS Excel
 - **Details:** [View Project](https://github.com/lakhan9340/Customer-Churn-Analysis-)
 <div align="center">
-<img src="https://github.com/lakhan9340/Customer-Churn-Analysis-/blob/main/churn%20analysis.png" alt="data science"  width="500" height="300" /> 
+<img src="https://github.com/lakhan9340/Customer-Churn-Analysis-/blob/main/churn%20analysis.png" alt="data science"  width="1000" height="600" /> 
 </div>
 
 ### 3. IMDB Webscraping 
