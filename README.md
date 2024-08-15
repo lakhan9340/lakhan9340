@@ -59,6 +59,7 @@ Analyzed customer churn rate to identify patterns and trends in customer retenti
 <div align="center">
 <img src="https://github.com/lakhan9340/Customer-Churn-Analysis-/blob/main/churn%20analysis.png" alt="data science"  width="500" height="300" /> 
 </div>
+
 ### 3. IMDB Webscraping 
 - **Description:** Used the requests library to send HTTP requests and retrieve HTML content from URLs. Parsed HTML with BeautifulSoup to navigate and extract desired elements. Extracted data using BeautifulSoup methods like find and find_all. Implemented data validation checks to ensure accuracy and completeness.
 - **Skills Used:** BeautifulSoup,selenium
