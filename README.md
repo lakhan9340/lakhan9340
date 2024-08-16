@@ -56,8 +56,11 @@ Here are some of the projects I've worked on:
 Analyzed customer churn rate to identify patterns and trends in customer retention and attrition. This involved creating charts that visually represented churn metrics over time, providing insights into customer behavior and retention strategies.
 - **Skills Used:** MS Excel
 - **Details:** [View Project](https://github.com/lakhan9340/Customer-Churn-Analysis-)
+
+<br clear="both">
 <div align="center">
-<img src="https://github.com/lakhan9340/Customer-Churn-Analysis-/blob/main/churn%20analysis.png" alt="data science"  width="1000" height="600" /> 
+<img  src="https://github.com/lakhan9340/Customer-Churn-Analysis-/blob/main/churn%20analysis.png" alt="data science"  width="700" height="400" /> 
+<img  src="https://github.com/lakhan9340/Customer-Churn-Analysis-/blob/main/kpi.png" alt="data science"  width="600" height="300" />
 </div>
 
 ### 3. IMDB Webscraping 
