@@ -78,6 +78,10 @@ Analyzed customer churn rate to identify patterns and trends in customer retenti
 - **Description:** Analyzed the CARS24 dataset using SQL to generate meaningful business insights. Optimized SQL queries for efficiency and performance. Utilized functions, subqueries, and aggregations to complete analysis tasks. Added comments to SQL queries to explain the approach and logic used.
 - **Skills Used:** MySQL
 - **Details:** [View Project](https://github.com/lakhan9340/Car24-Data-Analysis-By-Using-SQL)
+  </div>
+<div align="center">
+<img  src="https://github.com/lakhan9340/Car24-Data-Analysis-By-Using-SQL/blob/main/c24.png" alt="data science"  width="600" height="200" />
+</div>
 
 ---
 
