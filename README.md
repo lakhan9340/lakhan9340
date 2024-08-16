@@ -50,7 +50,11 @@ Here are some of the projects I've worked on:
 - **Description:** Created a database and imported purchase data with SQL, transforming and normalizing it. Analyzed data with Python to calculate totals, identify top customers, and analyze trends. Built an interactive PowerBI dashboard to visualize purchase trends, top customers, and product performance.
 - **Skills Used:** Python, Pandas, MySQL,PowerBi
 - **Details:** [View Project](https://github.com/lakhan9340/Customer-Purchase-Behavior-Analysis-and-Reporting-)
-- 
+<br clear="both">
+<div align="center">
+<img  src="https://github.com/lakhan9340/Customer-Purchase-Behavior-Analysis-and-Reporting-/blob/main/Untitled.png" alt="data science"  width="600" height="300" /> 
+  </div>
+ 
 ### 2. Customer churn Analysis
 - **Description:** Cleaned the data by removing missing, duplicate, and inconsistent entries. Used Excel formulas like SUM, AVERAGE, and COUNT to calculate key metrics. Added clear titles, axis labels, and legends to make charts easy to understand and observe churn rate of customers.
 Analyzed customer churn rate to identify patterns and trends in customer retention and attrition. This involved creating charts that visually represented churn metrics over time, providing insights into customer behavior and retention strategies.
@@ -126,10 +130,6 @@ Analyzed customer churn rate to identify patterns and trends in customer retenti
   
 </div>
 
-
----
-
-![Python](https://img.shields.io/badge/Python-3.8-blue) ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
 
 ---
 
