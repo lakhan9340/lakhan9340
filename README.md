@@ -27,7 +27,7 @@ As a dedicated Data Analyst, I thrive on discovering patterns and trends within 
 
 ---
 ## 🛠️ Skills
-  <img align="right" src="https://github.com/lakhan9340/lakhan9340/blob/main/download%20(1).gif" alt="data science"  width="250" height="300" /> 
+  <img align="right" src="https://github.com/lakhan9340/lakhan9340/blob/main/download%20(1).gif" alt="data science"  width="250" height="330" /> 
   
 - **Programming Languages:**
   - Python
