@@ -59,7 +59,9 @@ Analyzed customer churn rate to identify patterns and trends in customer retenti
 
 <br clear="both">
 <div align="center">
-<img  src="https://github.com/lakhan9340/Customer-Churn-Analysis-/blob/main/churn%20analysis.png" alt="data science"  width="700" height="400" /> 
+<img  src="https://github.com/lakhan9340/Customer-Churn-Analysis-/blob/main/churn.png" alt="data science"  width="600" height="300" /> 
+  </div>
+<div align="center">
 <img  src="https://github.com/lakhan9340/Customer-Churn-Analysis-/blob/main/kpi.png" alt="data science"  width="600" height="300" />
 </div>
 
