@@ -27,7 +27,7 @@ As a dedicated Data Analyst, I thrive on discovering patterns and trends within 
 
 ---
 ## 🛠️ Skills
-  <img align="right" src="https://github.com/lakhan9340/lakhan9340/blob/main/download%20(1).gif" alt="data science"  width="250" height="330" /> 
+  <img align="right" src="https://github.com/lakhan9340/lakhan9340/blob/main/download%20(1).gif" alt="data science"  width="200" height="300" /> 
   
 - **Programming Languages:**
   - Python
@@ -52,7 +52,7 @@ Here are some of the projects I've worked on:
 - **Details:** [View Project](https://github.com/lakhan9340/Customer-Purchase-Behavior-Analysis-and-Reporting-)
 <br clear="both">
 <div align="center">
-<img  src="https://github.com/lakhan9340/Customer-Purchase-Behavior-Analysis-and-Reporting-/blob/main/Untitled.png" alt="data science"  width="460" height="200" /> 
+<img  src="https://github.com/lakhan9340/Customer-Purchase-Behavior-Analysis-and-Reporting-/blob/main/Untitled.png" alt="data science"  width="450" height="200" /> 
   </div>
  
 ### 2. Customer churn Analysis
@@ -63,10 +63,10 @@ Analyzed customer churn rate to identify patterns and trends in customer retenti
 
 <br clear="both">
 <div align="center">
-<img  src="https://github.com/lakhan9340/Customer-Churn-Analysis-/blob/main/churn.png" alt="data science"  width="460" height="200" /> 
+<img  src="https://github.com/lakhan9340/Customer-Churn-Analysis-/blob/main/churn.png" alt="data science"  width="450" height="200" /> 
   </div>
 <div align="center">
-<img  src="https://github.com/lakhan9340/Customer-Churn-Analysis-/blob/main/kpi.png" alt="data science"  width="460" height="200" />
+<img  src="https://github.com/lakhan9340/Customer-Churn-Analysis-/blob/main/kpi.png" alt="data science"  width="450" height="200" />
 </div>
 
 ### 3. IMDB Webscraping 
@@ -80,7 +80,7 @@ Analyzed customer churn rate to identify patterns and trends in customer retenti
 - **Details:** [View Project](https://github.com/lakhan9340/Car24-Data-Analysis-By-Using-SQL)
   </div>
 <div align="center">
-<img  src="https://github.com/lakhan9340/Car24-Data-Analysis-By-Using-SQL/blob/main/c24.png" alt="data science"  width="440" height="110" />
+<img  src="https://github.com/lakhan9340/Car24-Data-Analysis-By-Using-SQL/blob/main/c24.png" alt="data science"  width="430" height="110" />
 </div>
 
 ---
