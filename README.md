@@ -52,7 +52,7 @@ Here are some of the projects I've worked on:
 - **Details:** [View Project](https://github.com/lakhan9340/Customer-Purchase-Behavior-Analysis-and-Reporting-)
 <br clear="both">
 <div align="center">
-<img  src="https://github.com/lakhan9340/Customer-Purchase-Behavior-Analysis-and-Reporting-/blob/main/Untitled.png" alt="data science"  width="480" height="230" /> 
+<img  src="https://github.com/lakhan9340/Customer-Purchase-Behavior-Analysis-and-Reporting-/blob/main/Untitled.png" alt="data science"  width="460" height="210" /> 
   </div>
  
 ### 2. Customer churn Analysis
@@ -63,10 +63,10 @@ Analyzed customer churn rate to identify patterns and trends in customer retenti
 
 <br clear="both">
 <div align="center">
-<img  src="https://github.com/lakhan9340/Customer-Churn-Analysis-/blob/main/churn.png" alt="data science"  width="480" height="230" /> 
+<img  src="https://github.com/lakhan9340/Customer-Churn-Analysis-/blob/main/churn.png" alt="data science"  width="460" height="210" /> 
   </div>
 <div align="center">
-<img  src="https://github.com/lakhan9340/Customer-Churn-Analysis-/blob/main/kpi.png" alt="data science"  width="480" height="230" />
+<img  src="https://github.com/lakhan9340/Customer-Churn-Analysis-/blob/main/kpi.png" alt="data science"  width="460" height="210" />
 </div>
 
 ### 3. IMDB Webscraping 
@@ -80,7 +80,7 @@ Analyzed customer churn rate to identify patterns and trends in customer retenti
 - **Details:** [View Project](https://github.com/lakhan9340/Car24-Data-Analysis-By-Using-SQL)
   </div>
 <div align="center">
-<img  src="https://github.com/lakhan9340/Car24-Data-Analysis-By-Using-SQL/blob/main/c24.png" alt="data science"  width="480" height="130" />
+<img  src="https://github.com/lakhan9340/Car24-Data-Analysis-By-Using-SQL/blob/main/c24.png" alt="data science"  width="440" height="110" />
 </div>
 
 ---
